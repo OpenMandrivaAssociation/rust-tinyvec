@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        1.1.1
-Release:        1
+Release:        2
 Summary:        `tinyvec` provides 100% safe vec-like data structures
 
 # Upstream license specification: Zlib OR Apache-2.0 OR MIT
